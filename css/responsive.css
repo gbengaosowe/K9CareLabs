@@ -1,0 +1,15 @@
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+@media screen and (min-width: 660px) {
+  background-color: lightgreen; 
+}
+ 
+  /**********************************
+  PAGE: PORTFOLIO
+  ***********************************/
+  
+  

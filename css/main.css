@@ -1,0 +1,27 @@
+/* Css Styles */
+
+/********************************** GENERAL***********************************/
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+	
+header {
+	color: #0233ff;
+}
+
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  float: left;
+}
+
+/**********************************COLORS ***********************************/
+/* site body */
+body {
+  background-color: lightgreen;
+}
+
+
+
